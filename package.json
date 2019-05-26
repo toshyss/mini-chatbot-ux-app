@@ -1,0 +1,12 @@
+{
+    "name": "mini-chatbot-ux-app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "basic-auth-connect": "^1.0.0",
+        "compression": "^1.7.4",
+        "express": "^4.16.4",
+        "morgan": "^1.9.1",
+        "serve-static": "^1.13.2"
+    }
+}
